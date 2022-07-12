@@ -15,6 +15,32 @@
     </entry>
     
     
+    
+    <entry>
+      <title>写在前面</title>
+      <link href="/2022/07/12/hello-world/"/>
+      <url>/2022/07/12/hello-world/</url>
+      
+        <content type="html"><![CDATA[<h4 id="写在前面"><a href="#写在前面" class="headerlink" title="写在前面"></a>写在前面</h4><p>​本网站为非盈利性网站，不允许有任何侵害作者合法权益的商业行为等各种行为，若有发现侵权行为请及时联系处理。</p><p>​本网站为基于git page+hexo实现的静态网站，服务器挂靠于github，以matery为基本框架进行自适应搭建，在后续会逐步进行一些调整和完善。</p><h4 id="开发时间戳"><a href="#开发时间戳" class="headerlink" title="开发时间戳"></a>开发时间戳</h4><p>-7.1 提出网站搭建计划，构思网站搭建框架</p><p>-7.4 由于之前主要集中在linux开发，此次属windows开发，故在windows环境下重新搭建及初始化git、hexo、typora相关环境，选择目标theme。</p><p>-7.7 theme最终选择matery，开始解析matery中_config.yml框架，进行自定义修改</p><p>​-面向对象，预计进行背景，音乐，icon，友情链接等方面的自定义修改</p><p>​-寻找合适图床，统一图片外链保证图片稳定</p><p>​-收集各目标链接icon，移植图床生成url</p><p>-7.10 网站搭建实现</p><p>​-将hexo与github链接，通过hexo指令布署网站</p><p>​-github生成page，通过hexo生成网页文件，绑定后修改主目录_config.yml文件确定网页基本信息</p><p>​-修改主目录_config.yml中的theme参数为matery，clone导入theme</p><p>​-在主目录source文件夹内创建tag、about等菜单信息</p><p>​-在theme文件夹中matery的_config.yml文件中修改功能信息</p><p>​</p><p>-7.13~ 联系各作者获取授权</p><h3 id="大致规划"><a href="#大致规划" class="headerlink" title="大致规划"></a>大致规划</h3><p>-购买域名进行替换 </p><p>-购买服务器并进行备案</p><p>-版面结构调整</p><p>-留言评论功能拓展</p><p>-友情链接拓展</p><p>-二级菜单添加</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>typora-vue-theme主题介绍</title>
+      <link href="/2018/09/07/kai-fa-bi-ji/"/>
+      <url>/2018/09/07/kai-fa-bi-ji/</url>
+      
+        <content type="html"><![CDATA[<h4 id="写在前面"><a href="#写在前面" class="headerlink" title="写在前面"></a>写在前面</h4><p>​本网站为非盈利性网站，不允许有任何侵害作者合法权益的商业行为等各种行为，若有发现侵权行为请及时联系处理。</p><p>​本网站为基于git page+hexo实现的静态网站，服务器挂靠于github，以matery为基本框架进行自适应搭建，在后续会逐步进行一些调整和完善。</p><h4 id="开发时间戳"><a href="#开发时间戳" class="headerlink" title="开发时间戳"></a>开发时间戳</h4><p>-7.1 提出网站搭建计划，构思网站搭建框架</p><p>-7.4 由于之前主要集中在linux开发，此次属windows开发，故在windows环境下重新搭建及初始化git、hexo、typora相关环境，选择目标theme。</p><p>-7.7 theme最终选择matery，开始解析matery中_config.yml框架，进行自定义修改</p><p>​-面向对象，预计进行背景，音乐，icon，友情链接等方面的自定义修改</p><p>​-寻找合适图床，统一图片外链保证图片稳定</p><p>​-收集各目标链接icon，移植图床生成url</p><p>-7.10 网站搭建实现</p><p>​-将hexo与github链接，通过hexo指令布署网站</p><p>​-github生成page，通过hexo生成网页文件，绑定后修改主目录_config.yml文件确定网页基本信息</p><p>​-修改主目录_config.yml中的theme参数为matery，clone导入theme</p><p>​-在主目录source文件夹内创建tag、about等菜单信息</p><p>​-在theme文件夹中matery的_config.yml文件中修改功能信息</p><p>​</p><p>-7.13~ 联系各作者获取授权</p><h3 id="大致规划"><a href="#大致规划" class="headerlink" title="大致规划"></a>大致规划</h3><p>-购买域名进行替换 </p><p>-购买服务器并进行备案</p><p>-版面结构调整</p><p>-留言评论功能拓展</p><p>-友情链接拓展</p><p>-二级菜单添加</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
   
   
 </search>
